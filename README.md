@@ -19,7 +19,8 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 > Negative pressure (still working in a revised design)   
 > Soothe the deterioration of mental state  
 >	Able to separate the space   
-
+***
+## Charts and Images
 ### Objective Tree
 <img src="https://github.com/Junduck15/IEDGroupProject/blob/main/objective_tree.png?raw=true" width="90%"></img>
 
