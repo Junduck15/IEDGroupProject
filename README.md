@@ -22,11 +22,11 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 ***
 ## Charts and Images
 ### Objective Tree
-<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/objective_tree.png?raw=true" width="90%"></img>
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/objective_tree.png?raw=true" width=500px></img>
 
 ### PCM Chart
-<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/PCM.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/PCM.jpg?raw=true" width=500px></img>
 
 
 ### Gant Chart
-<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/Gant chart.png?raw=true" width="90%"></img>
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/Gant chart.png?raw=true" width=500px></img>
