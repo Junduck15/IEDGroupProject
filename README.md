@@ -16,3 +16,6 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 ### PCM Chart
 <img src="https://github.com/Junduck15/IEDGroupProject/blob/main/PCM.jpg?raw=true" width="90%"></img>
 
+
+### Gant Chart
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/Gant_chart.png?raw=true" width="90%"></img>
