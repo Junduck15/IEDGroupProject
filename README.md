@@ -17,7 +17,7 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 > Deterioration of mental state due to environmental changes     
 ## Principal functions: 
 > -	Negative pressure (still working in a revised design)   
-> - Soothe the deterioration of mental state    
+> - Soothe the deterioration of mental state   
 >	- Able to separate the space   
 
 ### Objective Tree
