@@ -11,4 +11,4 @@ The video link to our presentation is also provided in the comment below the Tea
 
 Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 
-![alt text](https://github.com/Junduck15/IEDGroupProject/blob/main/Objectives tree.png?raw=true)
+https://github.com/Junduck15/IEDGroupProject/blob/main/Objectives%20tree.png
