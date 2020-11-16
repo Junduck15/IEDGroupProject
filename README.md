@@ -14,9 +14,9 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 
 
 ## Problem Statement of Our Final Project : 
-> Deterioration of mental state due to environmental changes 
+> Deterioration of mental state due to environmental changes     
 
-***
+
 ### Objective Tree
 <img src="https://github.com/Junduck15/IEDGroupProject/blob/main/objective_tree.png?raw=true" width="90%"></img>
 
