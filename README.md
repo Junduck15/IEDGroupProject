@@ -29,7 +29,8 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 > The air pressure should at least be 2.5PA.   
 > The entrance width sould be over 1.2m.   
 > Should protect patient's privacy.   
-<br/> <br/> 
+<br/> <br/>    
+
 ***
 ## Charts and Images
 <br/> 
