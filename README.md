@@ -16,12 +16,12 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 
 ## Problem Statement of Our Final Project : 
 > Deterioration of mental state due to environmental changes  
-<br/> 
+<br/>   
 ## Principal functions: 
 > Negative pressure (still working in a revised design)   
 > Soothe the deterioration of mental state  
 >	Able to separate the space   
-<br/> 
+<br/>    
 ## Limits and Boundaries: 
 > The redesigned NPU's area should be 10m^2.   
 > New build NPU's area should be over 15m^2   
@@ -31,7 +31,7 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 > Should protect patient's privacy.   
 <br/> <br/>    
 
-***
+***   
 ## Charts and Images
 <br/> 
 ### Objective Tree
