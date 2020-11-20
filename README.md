@@ -19,6 +19,13 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 > Negative pressure (still working in a revised design)   
 > Soothe the deterioration of mental state  
 >	Able to separate the space   
+## Limits and Boundaries: 
+> The redesigned NPU's area should be 10m^2.
+> New build NPU's area should be over 15m^2
+> The height should be over 2.4m.
+> The air pressure should at least be 2.5PA.
+> The entrance width sould be over 1.2m.
+> Should protect patient's privacy.
 ***
 ## Charts and Images
 ### Objective Tree
