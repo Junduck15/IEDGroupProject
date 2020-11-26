@@ -20,8 +20,8 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 
 ## Principal functions: 
 > Negative pressure (still working in a revised design)   
-> Soothe the deterioration of mental state  
->	Able to separate the space   
+> Fully managed by medical staffs 
+> Must have a way of an interaction among people 
 <br/>    
 
 ## Limits and Boundaries: 
