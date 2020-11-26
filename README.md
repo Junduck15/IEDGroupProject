@@ -15,7 +15,7 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 <br/> 
 
 ## Problem Statement of Our Final Project : 
-> Deterioration of mental state due to environmental changes  
+> Deterioration of mental state due to feeling of isolation. 
 <br/>   
 
 ## Principal functions: 
