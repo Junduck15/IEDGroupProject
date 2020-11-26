@@ -38,7 +38,7 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 <br/> 
     
 ### Objective Tree
-<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/images/objectives tree.png?raw=true" width=500px></img>
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/images/objectivestree.png?raw=true" width=500px></img>
 
 ### PCM Chart
 <img src="https://github.com/Junduck15/IEDGroupProject/blob/main/images/PCM.jpg?raw=true" width=500px></img>
