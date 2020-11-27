@@ -25,12 +25,8 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 <br/>    
 
 ## Limits and Boundaries: 
-> The redesigned NPU's area should be 10m^2.   
-> New build NPU's area should be over 15m^2   
-> The height should be over 2.4m.   
-> The air pressure should at least be 2.5PA.   
-> The entrance width sould be over 1.2m.   
-> Should protect patient's privacy.   
+> One medical staff is needed to manage 4~5 patients.   
+> One to two activities for the patients to achieve per day. But not in a row. Resting time is needed between activities.
 <br/> <br/>    
 
 ***   
