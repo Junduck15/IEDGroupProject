@@ -41,7 +41,7 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 <img src="https://github.com/Junduck15/IEDGroupProject/blob/main/objectives tree.png?raw=true" width=500px></img>
 
 ### PCM Chart
-<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/images/PCM.jpg?raw=true" width=500px></img>
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/PCM.png?raw=true" width=500px></img>
 
 
 ### Gant Chart
