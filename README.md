@@ -29,6 +29,8 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 > One to two activities for the patients to achieve per day. But not in a row. Resting time is needed between activities.
 <br/> <br/>    
 
+## Proof of Concept: 
+> Since chatting platforms already exist, it is easy to implement the program. With the basic information that the medical team have about the patients, it is easy to group the patients with similar symptoms.
 ***   
 ## Charts and Images
 <br/> 
