@@ -31,6 +31,8 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 
 ## Proof of Concept: 
 > Since chatting platforms already exist, it is easy to implement the program. With the basic information that the medical team have about the patients, it is easy to group the patients with similar symptoms.
+## Design Description and Specifications
+> Develop a new messaging platform for quarantined patients around the country. All of the patients are grouped into a chatting room with patients with similar symptoms. The permission for entering a particular chatting room is given only by the medical team. Just like the Kakaotalk open chatting room. One of the most important rule is that people from outside are not allowed to enter the chatting room. Some of the medical teams should be included in the chatting room to manage unexpected situations.
 ***   
 ## Charts and Images
 <br/> 
