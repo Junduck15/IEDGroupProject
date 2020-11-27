@@ -48,4 +48,4 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 <img src="https://github.com/Junduck15/IEDGroupProject/blob/main/images/Gant chart.png?raw=true" width=500px></img>
 
 ### Metrics for Objectives
-<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/Metrics for objectives.png?raw=true" width=500px></img>
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/Metrics for Objectives.png?raw=true" width=500px></img>
