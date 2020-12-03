@@ -25,15 +25,15 @@ Video Link - https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=8070s
 <br/>    
 
 ## Limits and Boundaries: 
-> One medical staff is needed to manage 4~5 patients.   
-> One to two activities for the patients to achieve per day. But not in a row. Resting time is needed between activities.
+> The majority of the patients are seniors 
+> The patients need to stay on the bed due to their health state
 <br/> <br/>    
 
 ## Proof of Concept: 
 > Since chatting platforms already exist, it is easy to implement the program. With the basic information that the medical team have about the patients, it is easy to group the patients with similar symptoms.
 ## Design Description and Specifications
-> Develop a new messaging platform for quarantined patients around the country. All of the patients are grouped into a chatting room with patients with similar symptoms. The permission for entering a particular chatting room is given only by the medical team. Just like the Kakaotalk open chatting room. One of the most important rule is that people from outside are not allowed to enter the chatting room. Some of the medical teams should be included in the chatting room to manage unexpected situations.
-***   
+> Develop a new messaging platform for quarantined patients around the country. All of the patients are grouped into a chatting room with patients with similar symptoms. The permission for entering a particular chatting room is given only by the medical team. Just like the Kakaotalk open chatting room. They can enter the chatting room after choosing whether they are going to use their real name, or be anonymous. The chatting is made through four different methods, shorcut, typing, writing, and voice recording. Moreover, there is a report system for those who use inappropriate wordings or attitude. One of the most important rule is that people from outside are not allowed to enter the chatting room. Some of the medical teams should be included in the chatting room to manage unexpected situations. 
+***
 ## Charts and Images
 <br/> 
     
