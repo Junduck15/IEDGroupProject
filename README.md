@@ -6,7 +6,7 @@ The name of the File is Team 1_권동성_박준석_금아현_최동희.pptx.
 
 You may download the file to view the ppt.
 <br/> 
-
+<img src="https://github.com/Junduck15/IEDGroupProject/blob/main/prototype.jpg?raw=true" width=500px></img>
 ### Video Link
 The video link to our presentation is also provided in the comment below the Team 1_권동성_박준석_금아현_최동희.pptx File.
 
